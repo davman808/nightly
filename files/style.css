@@ -52,6 +52,7 @@ body {
 #bookmarks li {
     display: inline-block;
     transition: 0.3s;
+    padding: 8px;
 }
 
 #bookmarks li:hover {
@@ -60,4 +61,4 @@ body {
 
 #bookmarks img {
     width: 3vw;
-}
+} 
